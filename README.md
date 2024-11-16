@@ -44,7 +44,8 @@ CompletePayment() function.
 [SignIn]:![Screenshot (245)](https://github.com/user-attachments/assets/fc19d225-ade7-4401-b9a4-969b800097b3)
 
 
-[Choose Plan]: <img width="1430" alt="img2" src="https://github.com/user-attachments/assets/9a5af237-734d-43d1-9574-b4dff6b3c0e7">
+[Choose Plan]:
+![Uploading Screenshot (246).png…]()
 
 
 [After Choosing Plan]: 
