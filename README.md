@@ -35,12 +35,17 @@ CompletePayment() function.
 
 
 ## Screen shots 📸
-[Signup]: https://user-images.githubusercontent.com/65064180/207203793-e5ab6471-0f40-4a36-be1d-5a27f41ca104.png
-[SignIn]: https://user-images.githubusercontent.com/65064180/207203814-b25835e9-cd7c-4ad6-9d09-12665a5aaef7.png
-[Home]: https://user-images.githubusercontent.com/65064180/207203790-a234ca85-b6dd-4e5a-b4b8-313979c14a7a.png
-[Choose Plan]: https://user-images.githubusercontent.com/65064180/207203802-7d6c5ca2-1098-41af-970e-e97b3ce2ee38.png
+[Signup]: ![Screenshot (243)](https://github.com/user-attachments/assets/5bf6d94e-dfe8-48be-a1d8-7a4af4a0446d)
+
+[SignIn]: 
+![Screenshot (244)](https://github.com/user-attachments/assets/39dcf8ae-504a-4a74-8968-2d91d83fa417)
+
+[Home]: 
+[Cho![Screenshot (243)](https://github.com/user-attachments/assets/619870a4-65a3-4b25-92c2-bf37f89a087c)
+ose Pla![Screenshot (243)](https://github.com/user-attachments/assets/a822247e-8934-4dcb-ad13-a84d1954abf0)
+n]: https://user-images.githubusercontent.com/65064180/207203802-7d6c5ca2-1098-41af-970e-e97b3ce2ee38.png
 [After Choosing Plan]: https://user-images.githubusercontent.com/65064180/207203804-5bba86e5-6af5-4a48-843d-741afa84870f.png
-[Profile]: https://user-images.githubusercontent.com/65064180/207203809-5b4929a6-28fa-4c6f-9a36-b3d730c24821.png
+[Profile]: 
 
 
 
