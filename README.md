@@ -35,48 +35,42 @@ CompletePayment() function.
 
 
 ## Screen shots 📸
-[Signup]: ![Screenshot (243)](https://github.com/user-attachments/assets/5bf6d94e-dfe8-48be-a1d8-7a4af4a0446d)
-
-[SignIn]: 
-![Screenshot (244)](https://github.com/user-attachments/assets/39dcf8ae-504a-4a74-8968-2d91d83fa417)
-
-[Home]: 
-[Cho![Screenshot (243)](https://github.com/user-attachments/assets/619870a4-65a3-4b25-92c2-bf37f89a087c)
-ose Pla![Screenshot (243)](https://github.com/user-attachments/assets/a822247e-8934-4dcb-ad13-a84d1954abf0)
-n]: https://user-images.githubusercontent.com/65064180/207203802-7d6c5ca2-1098-41af-970e-e97b3ce2ee38.png
-[After Choosing Plan]: https://user-images.githubusercontent.com/65064180/207203804-5bba86e5-6af5-4a48-843d-741afa84870f.png
-[Profile]: 
-
-
-
 |   Home     |    
-| ------------- |
-|![alt text][Home]  | 
+
+
+![Screenshot (243)](https://github.com/user-attachments/assets/6236f43f-64b5-474a-8ef4-a1d4c50921c4)
+
+
+
 
 |    Sign up      |    
 | ------------- | 
-|![alt text][Signup]  | 
 
+
+![Screenshot (244)](https://github.com/user-attachments/assets/bb320530-5402-4ebc-ae43-17ada69561b4)
 
 |    Sign In     |    
 | ------------- |
-|![alt text][SignIn]  | 
 
+
+![Screenshot (245)](https://github.com/user-attachments/assets/5433a726-5cd3-4d66-90e1-1b62632030f8)
 
 
 |    Choose Plan    |    
 | ------------- |
-|![alt text][Choose Plan]  | 
+
 
 
 
 |   After Choosing Plan     |    
 | ------------- |
-|![alt text][After Choosing Plan]  | 
 
+
+![Screenshot (242)](https://github.com/user-attachments/assets/00250209-9a86-4b78-951c-e32ae5658e55)
 
 
 |   Profile     |    
 | ------------- |
-|![alt text][Profile]  | 
 
+
+![Screenshot (240)](https://github.com/user-attachments/assets/3a3b221a-6daf-4080-9f9d-73a94ac69426)
