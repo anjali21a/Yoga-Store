@@ -1,4 +1,4 @@
-# Yoga Classes
+# Yoga 
 
 ## Features
 * Accepts the user data, does basic validations.
@@ -35,42 +35,52 @@ CompletePayment() function.
 
 
 ## Screen shots 📸
+[Signup]: ![Screenshot (244)](https://github.com/user-attachments/assets/be134cdc-991c-42a6-9b44-3eeb56a1e559)
+
+
+[SignIn]:![Screenshot (245)](https://github.com/user-attachments/assets/fc19d225-ade7-4401-b9a4-969b800097b3)
+
+
+[Home]: ![Screenshot (243)](https://github.com/user-attachments/assets/2999f16f-e8e5-4d0f-a7d1-51c771afe147)
+
+
+
+[Choose Plan]: 
+
+[After Choosing Plan]: 
+
+![Screenshot (242)](https://github.com/user-attachments/assets/9ed8d553-48fd-4e7c-b989-68532e3c10d3)
+
+[Profile]:
+
 |   Home     |    
-
-
-![Screenshot (243)](https://github.com/user-attachments/assets/6236f43f-64b5-474a-8ef4-a1d4c50921c4)
-
-
-
+| ------------- |
+|![alt text][Home]  | 
 
 |    Sign up      |    
 | ------------- | 
+|![alt text][Signup]  | 
 
-
-![Screenshot (244)](https://github.com/user-attachments/assets/bb320530-5402-4ebc-ae43-17ada69561b4)
 
 |    Sign In     |    
 | ------------- |
+|![alt text][SignIn]  | 
 
-
-![Screenshot (245)](https://github.com/user-attachments/assets/5433a726-5cd3-4d66-90e1-1b62632030f8)
 
 
 |    Choose Plan    |    
 | ------------- |
-
+|![alt text][Choose Plan]  | 
 
 
 
 |   After Choosing Plan     |    
 | ------------- |
+|![alt text][After Choosing Plan]  | 
 
-
-![Screenshot (242)](https://github.com/user-attachments/assets/00250209-9a86-4b78-951c-e32ae5658e55)
 
 
 |   Profile     |    
 | ------------- |
+|![alt text][Profile]  | 
 
-
-![Screenshot (240)](https://github.com/user-attachments/assets/3a3b221a-6daf-4080-9f9d-73a94ac69426)
