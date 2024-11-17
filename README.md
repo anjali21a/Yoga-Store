@@ -1,5 +1,8 @@
-# Yoga 
-
+# Yoga Classes
+## About the App
+* Frontend : ReactJS
+* Backend : Express, NodeJS
+* Database : MongoDB
 ## Features
 * Accepts the user data, does basic validations.
 * Only people within the age limit of 18-65 can enroll for the monthly classes and they will
